@@ -21,6 +21,3 @@ print(f'O maior valor é: {maior}')
 print(f'O menor valor é: {menor}')
 
 print("____________________________________")
-
-for indice in vetor_q:
-    print(f'O Numero na primeira posição é: {indice[0]}')
